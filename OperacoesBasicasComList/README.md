@@ -1,6 +1,6 @@
 # COLLECTIONS JAVA - Modulo 02
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é...
+Uma breve descrição sobre o objetivo deste projeto...
 
 # ![..](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48)... Getting Started JAVA
 
